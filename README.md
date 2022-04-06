@@ -1,2 +1,2 @@
 # DBMS_MINI_PROJECT
-Employee Management System
+Employee Management System Using Pyhton and SQL
